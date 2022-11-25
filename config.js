@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919536476115']
-global.OwnerNumber = ['919536476115']
-global.ownertag = ['919536476115']
+global.Owner = ['919098723453']
+global.OwnerNumber = ['919098723453']
+global.ownertag = ['919098723453']
 global.BotName = "𝑴𝑰𝑲𝑼-𝑽2"
 global.packname = "𝑴𝑰𝑲𝑼-𝑽2"
-global.author = "𝑩𝒀 - 𝑪𝑯𝑰𝑹𝑨𝑮 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹"
-global.OwnerName = "CHIRAG YOUTUBER"
+global.author = "𝑩𝒀 - Victimized xO"
+global.OwnerName = "Victimized xO"
 global.BotSourceCode = "https://github.com/LOSTHACKEROFC/MIKU-V2"
-global.SupportGroupLink = "https://chat.whatsapp.com/JvIdTV61RUs4NTmYrtV6qz"
+global.SupportGroupLink = "https://chat.whatsapp.com/JbZAHR4TtikDu0IJmOmwcG"
 global.sessionName = "session"
 
 // Prefix //
